@@ -6,7 +6,11 @@ namespace test1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          class PowerOfTwo
+        {
+            static void Main()
+        }
+
         }
     }
 }
