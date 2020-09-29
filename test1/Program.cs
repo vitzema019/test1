@@ -5,16 +5,17 @@ namespace test1
     class Program
     {
         static void Main(string[] args)
+           
         {
-            Console.WriteLine(PowerOfTWo(4));
-
+            Console.WriteLine(PowerOfTWo(Convert.ToInt32(Console.ReadLine())));
 
         }
 
         static int PowerOfTWo(int n)
         {
-            return 0;
-            int result = n*n
+
+            int result = n * n;
+            return result;
         
         }
     }
