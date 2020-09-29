@@ -6,11 +6,16 @@ namespace test1
     {
         static void Main(string[] args)
         {
-          class PowerOfTwo
-        {
-            static void Main()
+            Console.WriteLine(PowerOfTWo(4));
+
+
         }
 
+        static int PowerOfTWo(int n)
+        {
+            return 0;
+            int result = n*n
+        
         }
     }
 }
